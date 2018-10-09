@@ -47,7 +47,7 @@ class PongGame:
             self.ballYDirection = -1
 ```
 
-The remaining to functions are simply getPresentFrame() and getNextFrame() which allows us to update our game frame by frame as well
+The remaining two functions are simply getPresentFrame() and getNextFrame() which allows us to update our game frame by frame as well
 as pull our games current state.
 
 # Beating Pong through Reinforcement Learning (Pong_RL.py)
