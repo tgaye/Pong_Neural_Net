@@ -75,7 +75,7 @@ fc5 = tf.matmul(fc4, W_fc5) + b_fc5
 
 All that's left is to train our network!  This is done via trainGraph() which I'll give a brief rundown of.
 
-The crucual part of this fuction is the cost optimization and choice of optimizer. I chose to go with AdamOptimizer after testing 
+The crucial part of this fuction is the cost optimization and choice of optimizer. I chose to go with AdamOptimizer after testing 
 a few of the most popular.
 ```
 # cost optimization:
