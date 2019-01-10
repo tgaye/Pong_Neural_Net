@@ -1,7 +1,8 @@
 # Pong_Neural_Net
 Trained convolutional neural network that reads pixel data from game image and learns to beat CPU.  Practice with CNN's and machine 
 learning with images.
-Inspire by this hallmark paper by Open AI, Playing Atari with Deep Reinforcement Learning: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
+
+Inspired by this hallmark paper by Open AI, Playing Atari with Deep Reinforcement Learning: https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf
 
 ### Game Creation (demo.py)
 In this .py file we define variables needed to create our pong game window (L x W) as well as the dimensions of our paddles (player)
